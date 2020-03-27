@@ -12,9 +12,7 @@ ext {
 
     versions = [
             //Kotlin
-            kotlin_version          : "1.3.21",
-
-
+            kotlin_version          : "1.3.21"
     ]
 
     dependencies = [
